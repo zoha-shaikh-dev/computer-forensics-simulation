@@ -31,8 +31,8 @@ A web-based simulation project designed to demonstrate fundamental concepts of c
 ---
 
 📷 Project Preview
-! [employeedashboard] (employeedashboard.jpeg)
-! [hackerUI] (hackerUI.jpeg)
+![employeedashboard](employeedashboard.jpeg)
+![hackerUI](hackerUI.jpeg)
 
 
 
