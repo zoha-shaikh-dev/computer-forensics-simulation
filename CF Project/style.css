@@ -1,0 +1,1684 @@
+body{
+ background-color: #f7f1e7;
+}
+
+.home .content h4{
+      font-size: 32px;
+      font-weight: bold;
+      color: #4f3c35;
+      margin:2px;
+      padding: 2px;
+}
+
+.home .content p{
+    font-size: 16px;
+    color: #715b4b;
+    margin: 3px;
+    padding: 3px;
+}
+.info1{
+    display: flex;
+    gap: 5px;
+}
+
+/* employee data 1 css starts */
+.Employee-data1{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data1 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data1 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data1 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data1 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data1 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data1 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data1 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data1 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data1 .button :hover {
+   transform: scale(1.10);
+}
+/* employee data 1 css starts */
+
+
+.Employee-data2{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data2 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data2 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data2 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data2 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data2 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data2 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data2 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data2 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data2 .button :hover {
+   transform: scale(1.10);
+}
+
+
+.Employee-data3{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data3 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data3 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data3 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data3 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data3 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data3 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data3 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data3 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data3 .button :hover {
+   transform: scale(1.10);
+}
+
+.Employee-data4{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data4 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data4 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data4 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data4 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data4 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data4 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data4 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data4 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data4 .button :hover {
+   transform: scale(1.10);
+}
+
+
+.Employee-data5{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data5 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data5 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data5 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data5 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data5 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data5 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data5 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data5 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data5 .button :hover {
+   transform: scale(1.10);
+}
+
+
+.Employee-data6{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data6 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data6 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data6 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data6 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data6 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data6 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data6 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data6 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data6 .button :hover {
+   transform: scale(1.10);
+}
+
+
+
+.Employee-data7{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data7 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data7 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data7 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data7 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data7 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data7 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data7 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data7 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data7 .button :hover {
+   transform: scale(1.10);
+}
+
+
+
+.Employee-data8{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data8 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data8 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+.Employee-data8 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data8 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data8 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data8 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data8 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data8 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data8 .button :hover {
+   transform: scale(1.10);
+}
+
+
+.Employee-data9{
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data9 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data9 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data9 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data9 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data9 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data9 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data9 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data9 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data9 .button :hover {
+   transform: scale(1.10);
+}
+
+
+.Employee-data10 {
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data10 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data10 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data10 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data10 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data10 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data10 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data10 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data10 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data10 .button :hover {
+   transform: scale(1.10);
+}
+
+.Employee-data11 {
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data11 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data11 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data11 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data11 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data11 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data11 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data11 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data11 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data11 .button :hover {
+   transform: scale(1.10);
+}
+
+
+.Employee-data12 {
+  background-color: #dcceb7;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #4f3c35;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data12 .user-icon a{
+    font-size: 35px;
+    color: #f8f4ed;
+    margin-bottom: 8px;
+}
+
+.Employee-data12 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #4f3c35;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data12 .position p{
+ color: #4f3c35;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data12 .email a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data12 .email span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data12 .phone-number a{
+    text-decoration: none;
+    color: #4f3c35;
+    font-size: 20px;
+}
+
+.Employee-data12 .phone-number span{
+    color: #4f3c35;
+    font-weight: bolder;
+}
+
+.Employee-data12 .button input{
+    background-color: #4f3c3f;
+    color: #f8f4ed;
+    /* border: 2px solid #658294; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    /* box-shadow: 2px 5px 15px ; */
+    font-weight: bold;
+} 
+
+.Employee-data12 .button :hover {
+   transform: scale(1.10);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* employee data 2 css starts */
+ /* .Employee-data2{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data2 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data2 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data2 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data2 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data2 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data2 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data2 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data2 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+}  */
+/* employee data 2 css ends */
+
+/* employee data 3 css starts */
+/* .Employee-data3{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data3 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data3 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data3 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data3 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data3 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data3 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data3 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data3 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+}  */
+/* employee data 3 css ends */
+
+/* employee data 4 css starts */
+/* .Employee-data4{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data4 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data4 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data4 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data4 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data4 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data4 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data4 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data4 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+}  */
+/* employee data 4 css ends */
+
+/* employee data 5 css starts */
+/* .Employee-data5{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data5 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data5 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data5 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data5 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data5 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data5 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data5 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data5 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 5 css ends */
+
+/* employee data 6 css starts */
+/* .Employee-data6{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data6 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data6 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data6 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data6 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data6 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data6 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data6 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data6 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 6 css ends */
+
+.info2{
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+/* employee data 7 css starts */
+/* .Employee-data7{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data7 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data7 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data7 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data7 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data7 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data7 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data7 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data7 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 7 css ends */
+
+/* employee data 8 css starts */
+/* .Employee-data8{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data8 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data8 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data8 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data8 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data8 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data8 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data8 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data8 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 8 css ends */
+
+/* employee data 9 css starts */
+/* .Employee-data9{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data9 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data9 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data9 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data9 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data9 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data9 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data9 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data9 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 9 css ends */
+
+/* employee data 10 css starts */
+/* .Employee-data10{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data10 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data10 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data10 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data10 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data10 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data10  .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data10 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data10  .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 10 css ends */
+
+/* employee data 11 css starts */
+/* .Employee-data11{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data11 .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data11 .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data11 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data11 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data11 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data11  .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data11 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data11 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 11 css ends */
+
+/* employee data 12 css starts */
+/* .Employee-data12{
+  background-color: white;
+  width: 200px;
+   height: 210px; 
+  border: 2px solid #658294;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 2.5px 3px 25px #282828;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.Employee-data12  .user-icon a{
+    font-size: 35px;
+    color: #835c2d;
+    margin-bottom: 8px;
+}
+
+.Employee-data12  .name h3{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #658294;
+ margin:0;
+ margin-left: 5px;
+}
+
+.Employee-data12 .position p{
+ color: #658294;
+ font-weight: bolder;
+ margin-top: 4px;
+ margin-left:5px ;
+}
+
+.Employee-data12 .email a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data12 .email span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data12 .phone-number a{
+    text-decoration: none;
+    color: #835c2d;
+    font-size: 20px;
+}
+
+.Employee-data12 .phone-number span{
+    color: #658294;
+    font-weight: bolder;
+}
+
+.Employee-data12 .button input{
+    background-color: #9c7e5a;
+    border: 2px solid #658294;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 52px;
+    margin-top: 12px;
+    box-shadow: 2px 5px 15px  #5e7d91;
+    font-weight: bold;
+} */
+/* employee data 12 css ends */

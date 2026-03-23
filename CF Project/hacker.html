@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Hacker UI</title>
+    <link rel="stylesheet" href="attacker.css">
+</head>
+<body>
+    <header>
+      <h1>Attacker Console</h1>
+      <p class="subtitle"> Simulated Phishing Control Panel</p>
+    </header>
+
+    <!-- code starts -->
+    
+
+<!-- Message Sender Section -->
+<div class="box" id="sendBox"> 
+     <h3>Send a Message</h3> 
+     <textarea id="msg" placeholder="Type your message..."></textarea> 
+     <button onclick="sendMessage()">Send</button> 
+</div>
+
+<!-- Token Verification Screen -->
+<div class="box" id="verifyBox" style="display:none;">
+    <h3>Enter Token</h3>
+    <input type="text" id="tokenInput" placeholder="Enter token...">
+    <button onclick="verifyToken()">Verify</button>
+</div>
+
+<!-- UI1 Dashboard Loader -->
+<iframe id="ui1Frame" src="victim.html" style="display:none;"></iframe>
+
+
+ <script>
+// If token exists already → show verification box
+if(localStorage.getItem("token")) {
+    document.getElementById("sendBox").style.display = "none";
+    document.getElementById("verifyBox").style.display = "block";
+}
+
+// Send message to UI1
+function sendMessage() {
+    const message = document.getElementById("msg").value.trim();
+
+    if (!message) {
+        alert("Please type a message before sending!");
+        return;
+    }
+
+     localStorage.setItem("pendingMessage", message);
+    // alert("Message Sent 📩");
+    // document.getElementById("msg").value = "";
+
+}
+
+// Verify the token and unlock UI1
+function verifyToken(){
+    const entered = document.getElementById("tokenInput").value.trim();
+    const stored = localStorage.getItem("token");
+
+    if(entered === stored){
+        alert("Token Verified ✔");
+
+        document.getElementById("verifyBox").style.display = "none";
+        document.getElementById("ui1Frame").style.display = "block";
+
+    } else {
+        alert("❌ Incorrect Token");
+    }
+}
+</script> 
+
+
+
+
+</body>
+</html>
+    
